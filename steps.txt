@@ -1,0 +1,25 @@
+npx create-react-native-app
+npm install react-native-elements
+npm i --save react-native-icons
+
+//fix ios icons and linking
+cd ios
+pod install
+cd ..
+
+// formik for validation formik.org & yup works with formik
+npm install formik yup --save
+
+//run react native app | might take a while | Too long
+npm run android
+
+// USE EXPO - much faster
+expo start
+
+
+//if on windows you cant run ios simulator
+
+//android virtual device
+emulator -avd myAVDName
+
+||xrof - platform target css

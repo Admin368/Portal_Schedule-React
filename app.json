@@ -1,0 +1,12 @@
+{
+  "name": "Portal_Schedule",
+  "displayName": "Portal_Schedule",
+  "expo": {
+    "name": "Portal_Schedule",
+    "slug": "Portal_Schedule",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
